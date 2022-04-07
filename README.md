@@ -3,7 +3,7 @@
 
 [Contexto](#contexto)
 
-[Problematização](#probematização)
+[Problematização](#problematização)
 
 [Fotos Comparações](#comparações)
 
