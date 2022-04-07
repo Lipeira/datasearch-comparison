@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 
-# Linear Function - the list don't need to be sorted , but we will apply sort to compare the complexity to binary search 
+# Linear Function
 
 def LinearSearch(number,list):
     complexity = 0
@@ -10,7 +10,7 @@ def LinearSearch(number,list):
         if i == number:
             return complexity
 
-# BinarySearchFunction - works if list is sorted      
+# BinarySearchFunction   
 
 def BinarySearch(number,list):
     complexity = 0
@@ -29,7 +29,7 @@ def BinarySearch(number,list):
 
 def main():
 
-    #Applying these functions above to an unsorted list , searching the last element
+    #Applying these functions above to a sorted list , searching for the last element
 
     # X-axis and Y-axis 
 
@@ -53,8 +53,6 @@ def main():
         Complexity = LinearSearch(number , TestList)
         YLinearS.append(Complexity)
 
-
-    #The list needs to be sorted here , because binary search requires a sorted list to work
         Complexity2 = BinarySearch(number, TestList)
         YBinaryS.append(Complexity2)
 
@@ -74,5 +72,5 @@ if __name__ == "__main__":
     main()
 
     
-#So , in the case that the list is unsorted , it's better to use Linear search than binary searc
+#So , in the case that the list is sorted , it's better to use Binary Search than Linear Search
  
