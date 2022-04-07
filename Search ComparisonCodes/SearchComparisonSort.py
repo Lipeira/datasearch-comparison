@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 
-# Linear Function - the list don't need to be sorted , but we will apply sort to compare the complexity to binary search 
+# Linear Function - the list don't need to be sorted
 
 def LinearSearch(number,list):
     complexity = 0
@@ -73,7 +73,7 @@ def trocar(unsortedlist,i,min):
 
 def main():
 
-    #Applying these functions above to an unsorted list , searching the last element
+    #Applying these functions above to an unsorted list , searching for the last element
 
     # X-axis and Y-axis 
 
