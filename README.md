@@ -52,7 +52,7 @@ Existem diversos tipos de algoritmos de busca de dados: Linear Search
 Aqui , serão apresentados os algoritmos de busca binária e busca sequencial , comparando-os em relação ao funcionamento e ao custo , e o que vale mais a pena ultilizar nos piores casos e mais realistas possíveis.
 
 ___
-## Probematização
+## Problematização
 <br>
 <img src="https://ik.imagekit.io/i6rnmcmdaz85/1_4poxx4vMDQfGEq3HeswJoA_3doxT_MSl.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1649347214811">
 <br>
