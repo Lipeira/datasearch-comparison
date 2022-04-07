@@ -111,7 +111,7 @@ $ cd
 $ cd Desktop
 $ mkdir GithubRepository
 $ cd GithubRepository
-$ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/Lipeira/datasearch-comparison.git
 
 ```
 
